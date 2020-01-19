@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-monster-rolodex/static/css/main.e429127c.chunk.css",
+    "main.js": "/udemy-monster-rolodex/static/js/main.4507fe7e.chunk.js",
+    "main.js.map": "/udemy-monster-rolodex/static/js/main.4507fe7e.chunk.js.map",
+    "runtime-main.js": "/udemy-monster-rolodex/static/js/runtime-main.b3d4918f.js",
+    "runtime-main.js.map": "/udemy-monster-rolodex/static/js/runtime-main.b3d4918f.js.map",
+    "static/js/2.4d19465e.chunk.js": "/udemy-monster-rolodex/static/js/2.4d19465e.chunk.js",
+    "static/js/2.4d19465e.chunk.js.map": "/udemy-monster-rolodex/static/js/2.4d19465e.chunk.js.map",
+    "index.html": "/udemy-monster-rolodex/index.html",
+    "precache-manifest.d662433cb6a0ead3edad39dbfa97dfe9.js": "/udemy-monster-rolodex/precache-manifest.d662433cb6a0ead3edad39dbfa97dfe9.js",
+    "service-worker.js": "/udemy-monster-rolodex/service-worker.js",
+    "static/css/main.e429127c.chunk.css.map": "/udemy-monster-rolodex/static/css/main.e429127c.chunk.css.map",
+    "static/js/2.4d19465e.chunk.js.LICENSE": "/udemy-monster-rolodex/static/js/2.4d19465e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d4918f.js",
+    "static/js/2.4d19465e.chunk.js",
+    "static/css/main.e429127c.chunk.css",
+    "static/js/main.4507fe7e.chunk.js"
+  ]
+}
